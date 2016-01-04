@@ -11,6 +11,10 @@
     "compiler",
     "msbuild"
   ],
+  "bin": {
+    "comppile": "bin/comppile"
+  },
+  "preferGlobal": true,
   "author": "Sebastiaan Marynissen <sebastiaan.marynissen@gmail.com>",
   "license": "MIT",
   "dependencies": {
